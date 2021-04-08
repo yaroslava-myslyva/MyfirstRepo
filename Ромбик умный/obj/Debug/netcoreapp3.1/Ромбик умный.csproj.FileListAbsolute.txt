@@ -1,0 +1,13 @@
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\bin\Debug\netcoreapp3.1\Ромбик умный.exe
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\bin\Debug\netcoreapp3.1\Ромбик умный.deps.json
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\bin\Debug\netcoreapp3.1\Ромбик умный.runtimeconfig.json
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\bin\Debug\netcoreapp3.1\Ромбик умный.runtimeconfig.dev.json
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\bin\Debug\netcoreapp3.1\Ромбик умный.dll
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\bin\Debug\netcoreapp3.1\Ромбик умный.pdb
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\obj\Debug\netcoreapp3.1\Ромбик умный.csprojAssemblyReference.cache
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\obj\Debug\netcoreapp3.1\Ромбик умный.AssemblyInfoInputs.cache
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\obj\Debug\netcoreapp3.1\Ромбик умный.AssemblyInfo.cs
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\obj\Debug\netcoreapp3.1\Ромбик умный.csproj.CoreCompileInputs.cache
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\obj\Debug\netcoreapp3.1\Ромбик умный.dll
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\obj\Debug\netcoreapp3.1\Ромбик умный.pdb
+C:\Users\RomanM\source\repos\Цяцька\Ромбик умный\obj\Debug\netcoreapp3.1\Ромбик умный.genruntimeconfig.cache
